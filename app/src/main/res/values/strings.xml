@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="CalculatorAPP">四則演算アプリ</string>
+    <string name="calculatorapp">CalculatorAPP</string>
+</resources>
